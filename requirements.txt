@@ -1,0 +1,6 @@
+streamlit>=1.33
+beautifulsoup4>=4.12
+reportlab>=4.0
+Pillow>=10.0       # reportlab may use it
+# lxml is optional – html.parser works already. Uncomment if you want the faster parser.
+# lxml>=4.9
